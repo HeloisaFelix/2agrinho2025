@@ -162,7 +162,7 @@ nav ul li a:hover {
 }
 
 .produto button.adicionar-carrinho {
-    background-color: #5cb85c;
+    background-color: #4cae4c;
     color: #fff;
     border: none;
     padding: 10px 20px;
@@ -321,6 +321,3 @@ footer a:hover {
     border-bottom: 1px solid #eee;
     padding-bottom: 10px;
 }
-
-.item-carrinho img {
-    width }
